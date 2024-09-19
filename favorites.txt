@@ -1,12 +1,3 @@
-Fav food:
-
-Rasgulla
-Mud Coffee
-Paneer Wrap
-
-Fav Movie:
-
-KGF
-Kantara
-Bheema
-
+Feature 1
+Feature 2
+Feature 3
